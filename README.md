@@ -16,7 +16,6 @@ Highlights:
 - 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
 - 🔐 JWT Authentication & Protected Routes
 - 🌍 Language Exchange Platform with 32 Unique UI Themes
-- ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
 - 🧠 Global State Management with Zustand
 - 🚨 Error Handling (Frontend & Backend)
 - 🎯 Built with Scalable Technologies like Stream
@@ -43,6 +42,14 @@ VITE_STREAM_API_KEY=your_stream_api_key
 ```
 
 ---
+
+## 💻 Run the FullStack App
+
+```bash
+cd langly
+npm run build
+npm run start
+```
 
 ## 🔧 Run the Backend
 
