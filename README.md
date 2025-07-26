@@ -1,7 +1,16 @@
 <h1 align="center">Langly</h1>
 <h2>FullStack Language Learning Platform With Video Calling and Chatting features</h2>
 
-![Demo App]()
+### 🖼️ Demo Screenshots
+
+#### 🏠 Homepage
+![Homepage](https://raw.githubusercontent.com/RADXIshan/mern-langly/main/frontend/public/homepage.png)
+
+#### 💬 Chat Page
+![Chat Page](https://raw.githubusercontent.com/RADXIshan/mern-langly/main/frontend/public/chatpage.png)
+
+#### 🎥 Video Call
+![Video Call](https://raw.githubusercontent.com/RADXIshan/mern-langly/main/frontend/public/videocall.png)
 
 # TECH STACK
 
