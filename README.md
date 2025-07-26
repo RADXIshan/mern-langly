@@ -1,6 +1,14 @@
 <h1 align="center">Langly</h1>
 <h2>FullStack Language Learning Platform With Video Calling and Chatting features</h2>
+
 ![Demo App]()
+
+# TECH STACK
+
+| Frontend | Backend | Database | Infra / Dev                                            |
+| -------- | ------- | -------- | ------------------------------------------------------ |
+| React    | Express | MongoDB  | Vite, Zustand, TanStack Query, Stream SDK, TailwindCSS |
+
 
 Highlights:
 
